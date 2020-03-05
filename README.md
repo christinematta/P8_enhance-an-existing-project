@@ -28,3 +28,5 @@
 
 
 ### [Press here to access the todo app](https://christinematta.github.io/P8_enhance-an-existing-project/)
+### [Press here to access the compatitor website](http://todolistme.net)
+### [Press here to view the documentation](https://christinematta.github.io/P8_enhance-an-existing-project/Project proposal.docx)
