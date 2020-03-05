@@ -27,4 +27,4 @@
 - MVC architecture (Model-View-Controller)
 
 
-### [Press here to access the todo app](https://christinematta.github.io/Todo-List-app/.)
+### [Press here to access the todo app](https://christinematta.github.io/P8_enhance-an-existing-project/)
